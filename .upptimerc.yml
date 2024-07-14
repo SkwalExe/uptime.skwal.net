@@ -1,27 +1,26 @@
-# Change these first
-owner: SkwalExe # Your GitHub organization or username, where this repository lives
-repo: uptime.skwal.net # The name of this repository
-
+owner: SkwalExe
+repo: uptime.skwal.net
+user-agent: "Skwal Status Page"
 sites:
   - name: Google
     url: https://www.google.com
   - name: Skwal
     url: https://skwal.net
+assignees:
+  - SkwalExe
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.skwal.net
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://skwal.net/img/banner.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "SkwalNet services uptime monitor and status page."
+  introMessage: "Administrator: Léopold Koprivnik <koprivnik@skwal.net>"
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/$OWNER
+    - title: Website
+      href: https://skwal.net
+  i18n:
+    footer: "**Subscribe to real-time updates:** Visit our [GitHub repository](https://github.com/SkwalExe/uptime.skwal.net) and click on the _Notifications_ dropdown and select _All Activity_."
