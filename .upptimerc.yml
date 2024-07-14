@@ -13,8 +13,8 @@ status-website:
   cname: uptime.skwal.net
   logoUrl: https://skwal.net/img/banner.png
   name: Upptime
-  introTitle: "SkwalNet services uptime monitor and status page."
-  introMessage: "Administrator: Léopold Koprivnik <koprivnik@skwal.net>"
+  introTitle: "Skwal services uptime monitor and status page."
+  introMessage: "Administrator: Léopold Koprivnik &lt;koprivnik@skwal.net&gt;"
   navbar:
     - title: Status
       href: /
@@ -22,5 +22,5 @@ status-website:
       href: https://github.com/$OWNER
     - title: Website
       href: https://skwal.net
-  i18n:
+i18n:
     footer: "**Subscribe to real-time updates:** Visit our [GitHub repository](https://github.com/SkwalExe/uptime.skwal.net) and click on the _Notifications_ dropdown and select _All Activity_."
