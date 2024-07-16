@@ -1,18 +1,13 @@
 owner: SkwalExe
 repo: uptime.skwal.net
 user-agent: "Skwal Status Page"
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Skwal
-    url: https://skwal.net
 assignees:
   - SkwalExe
-
 status-website:
   cname: uptime.skwal.net
+  theme: night
   logoUrl: https://skwal.net/img/banner.png
-  name: Upptime
+  name: Uptime
   introTitle: "Skwal services uptime monitor and status page."
   introMessage: "Administrator: Léopold Koprivnik &lt;koprivnik@skwal.net&gt;"
   navbar:
@@ -24,3 +19,51 @@ status-website:
       href: https://skwal.net
 i18n:
     footer: "**Subscribe to real-time updates:** Visit our [GitHub repository](https://github.com/SkwalExe/uptime.skwal.net) and click on the _Notifications_ dropdown and select _All Activity_."
+sites:
+  - name: Skwal
+    url: https://skwal.net
+  - name: Skwal (IPv6)
+    url: https://skwal.net
+    ipv6: true
+  - name: Skwal Forum
+    url: https://forum.skwal.net
+  - name: Skwal Forum (IPv6)
+    url: https://forum.skwal.net
+    ipv6: true
+  - name: Skwal Blog
+    url: https://blog.skwal.net
+  - name: Skwal Blog (IPv6)
+    url: https://blog.skwal.net
+    ipv6: true
+  - name: Mail Server
+    url: https://mail.skwal.net
+  - name: Mail Server (IPv6)
+    url: https://mail.skwal.net
+    ipv6: true
+  - name: Mozart Panel
+    url: https://mozart.skwal.net
+  - name: Mozart Panel (IPv6)
+    url: https://mozart.skwal.net
+    ipv6: true
+  - name: Shlink Server
+    url: https://link.skwal.net
+  - name: Shlink Server (IPv6)
+    url: https://link.skwal.net
+    ipv6: true
+  - name: Share Server
+    url: https://share.skwal.net
+  - name: Share Server (IPv6)
+    url: https://share.skwal.net
+    ipv6: true
+  - name: Portfolio
+    url: https://portfolio.skwal.net
+  - name: Portfolio (IPv6)
+    url: https://portfolio.skwal.net
+    ipv6: true
+  - name: Ente
+    url: https://ente.skwal.net
+  - name: Ente (IPv6)
+    url: https://ente.skwal.net
+    ipv6: true
+  - name: Google
+    url: https://www.google.com
