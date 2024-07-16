@@ -22,19 +22,19 @@
     "url": "https://skwal.net",
     "icon": "https://icons.duckduckgo.com/ip3/skwal.net.ico",
     "slug": "skwal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 631,
-    "timeWeek": 563,
-    "timeMonth": 563,
-    "timeYear": 563,
+    "status": "up",
+    "uptime": "93.06%",
+    "uptimeDay": "78.84%",
+    "uptimeWeek": "93.06%",
+    "uptimeMonth": "93.06%",
+    "uptimeYear": "93.06%",
+    "time": 596,
+    "timeDay": 712,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2024-07-16": 0
+      "2024-07-16": 305
     }
   }
 ]
