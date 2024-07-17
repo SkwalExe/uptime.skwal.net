@@ -5,7 +5,7 @@ assignees:
   - SkwalExe
 status-website:
   cname: uptime.skwal.net
-  theme: night
+  theme: dark
   logoUrl: https://skwal.net/img/banner.png
   name: Uptime
   introTitle: "Skwal services uptime monitor and status page."
