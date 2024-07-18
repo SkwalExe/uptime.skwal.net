@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/skwal.net.ico",
     "slug": "skwal",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.96%",
-    "uptimeMonth": "95.96%",
-    "uptimeYear": "95.96%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "95.97%",
     "time": 543,
     "timeDay": 553,
     "timeWeek": 543,
@@ -42,19 +42,19 @@
     "url": "https://forum.skwal.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.skwal.net.ico",
     "slug": "skwal-forum",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 620,
-    "timeDay": 858,
-    "timeWeek": 620,
-    "timeMonth": 620,
-    "timeYear": 620,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 599,
+    "timeDay": 735,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2024-07-18": 1
+      "2024-07-18": 14
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://forum.skwal.net",
     "icon": "https://icons.duckduckgo.com/ip3/forum.skwal.net.ico",
     "slug": "skwal-forum-i-pv6",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 263,
-    "timeDay": 452,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 249,
+    "timeDay": 360,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2024-07-18": 1
+      "2024-07-18": 13
     }
   },
   {
@@ -191,19 +191,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/link.skwal.net.ico",
     "slug": "shlink-server",
     "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1341,
     "timeDay": 1896,
     "timeWeek": 1341,
     "timeMonth": 1341,
     "timeYear": 1341,
-    "dailyMinutesDown": {
-      "2024-07-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shlink Server (IPv6)",
@@ -211,19 +209,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/link.skwal.net.ico",
     "slug": "shlink-server-i-pv6",
     "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 356,
     "timeDay": 447,
     "timeWeek": 356,
     "timeMonth": 356,
     "timeYear": 356,
-    "dailyMinutesDown": {
-      "2024-07-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Share Server",
@@ -231,18 +227,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.skwal.net.ico",
     "slug": "share-server",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.55%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1289,
     "timeDay": 2161,
     "timeWeek": 1289,
     "timeMonth": 1289,
     "timeYear": 1289,
     "dailyMinutesDown": {
-      "2024-07-18": 0
+      "2024-07-18": 14
     }
   },
   {
@@ -251,18 +247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/share.skwal.net.ico",
     "slug": "share-server-i-pv6",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.55%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 588,
     "timeDay": 791,
     "timeWeek": 588,
     "timeMonth": 588,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-07-18": 0
+      "2024-07-18": 13
     }
   },
   {
