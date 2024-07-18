@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.skwal.net.ico",
     "slug": "skwal-forum",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 599,
     "timeDay": 735,
     "timeWeek": 599,
     "timeMonth": 599,
     "timeYear": 599,
-    "dailyMinutesDown": {
-      "2024-07-18": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Skwal Forum (IPv6)",
@@ -63,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.skwal.net.ico",
     "slug": "skwal-forum-i-pv6",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 360,
     "timeWeek": 249,
     "timeMonth": 249,
     "timeYear": 249,
-    "dailyMinutesDown": {
-      "2024-07-18": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Skwal Blog",
@@ -226,19 +222,19 @@
     "url": "https://share.skwal.net",
     "icon": "https://icons.duckduckgo.com/ip3/share.skwal.net.ico",
     "slug": "share-server",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 1289,
-    "timeDay": 2161,
-    "timeWeek": 1289,
-    "timeMonth": 1289,
-    "timeYear": 1289,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 1211,
+    "timeDay": 1714,
+    "timeWeek": 1211,
+    "timeMonth": 1211,
+    "timeYear": 1211,
     "dailyMinutesDown": {
-      "2024-07-18": 14
+      "2024-07-18": 20
     }
   },
   {
@@ -246,19 +242,19 @@
     "url": "https://share.skwal.net",
     "icon": "https://icons.duckduckgo.com/ip3/share.skwal.net.ico",
     "slug": "share-server-i-pv6",
-    "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
-    "time": 588,
-    "timeDay": 791,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 574,
+    "timeDay": 696,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-07-18": 13
+      "2024-07-18": 20
     }
   },
   {
