@@ -1,7 +1,7 @@
 url: https://mozart.skwal.net
-status: up
-code: 200
-responseTime: 123
-lastUpdated: 2024-07-27T23:05:29.332Z
+status: down
+code: 502
+responseTime: 1116
+lastUpdated: 2024-07-28T18:44:45.612Z
 startTime: 2024-07-16T19:53:44.048Z
 generator: Upptime <https://github.com/upptime/upptime>
